@@ -1,0 +1,6 @@
+{
+  "name": "ProteoCloud Institute",
+  "description": "Macromolecular biophysics platform, cardiac electrophysiology engine, and AWS S3 cloud storage architecture for Batch 7 research.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
